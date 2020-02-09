@@ -1,2 +1,2 @@
-# parallel
-Parallel computing
+# uc-parallel-computing
+University of Cincinnati - Parallel computing
